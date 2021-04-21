@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#03aeff",
+    "red":  "#b53b50",
+    "yellow":  "#c9d364",
+    "brightWhite":  "#050608",
+    "black":  "#dddfe0",
+    "purple":  "#ea5ce2",
+    "white":  "#28292a",
+    "cursorColor":  "#050608",
+    "brightRed":  "#b53b50",
+    "name":  "Synth Midnight Terminal Light",
+    "cyan":  "#42fff9",
+    "background":  "#dddfe0",
+    "blue":  "#03aeff",
+    "brightCyan":  "#42fff9",
+    "brightBlack":  "#a3a5a6",
+    "brightGreen":  "#06ea61",
+    "foreground":  "#28292a",
+    "brightYellow":  "#c9d364",
+    "brightBlue":  "#03aeff",
+    "brightPurple":  "#ea5ce2",
+    "green":  "#06ea61"
+}

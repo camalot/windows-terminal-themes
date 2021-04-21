@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#73b3e7",
+    "red":  "#e77171",
+    "yellow":  "#dbb774",
+    "brightWhite":  "#3e4249",
+    "black":  "#262729",
+    "purple":  "#d390e7",
+    "white":  "#b7bec9",
+    "cursorColor":  "#3e4249",
+    "brightRed":  "#e77171",
+    "name":  "Edge Dark",
+    "cyan":  "#5ebaa5",
+    "background":  "#262729",
+    "blue":  "#73b3e7",
+    "brightCyan":  "#5ebaa5",
+    "brightBlack":  "#3e4249",
+    "brightGreen":  "#a1bf78",
+    "foreground":  "#b7bec9",
+    "brightYellow":  "#dbb774",
+    "brightBlue":  "#73b3e7",
+    "brightPurple":  "#d390e7",
+    "green":  "#a1bf78"
+}

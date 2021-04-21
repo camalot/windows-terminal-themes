@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#88a4d3",
+    "red":  "#d35c5c",
+    "yellow":  "#e0ac16",
+    "brightWhite":  "#e4d4c8",
+    "black":  "#231e18",
+    "purple":  "#bb90e2",
+    "white":  "#cabcb1",
+    "cursorColor":  "#e4d4c8",
+    "brightRed":  "#d35c5c",
+    "name":  "Woodland",
+    "cyan":  "#6eb958",
+    "background":  "#231e18",
+    "blue":  "#88a4d3",
+    "brightCyan":  "#6eb958",
+    "brightBlack":  "#9d8b70",
+    "brightGreen":  "#b7ba53",
+    "foreground":  "#cabcb1",
+    "brightYellow":  "#e0ac16",
+    "brightBlue":  "#88a4d3",
+    "brightPurple":  "#bb90e2",
+    "green":  "#b7ba53"
+}

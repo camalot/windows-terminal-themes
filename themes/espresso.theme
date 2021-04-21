@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6c99bb",
+    "red":  "#d25252",
+    "yellow":  "#ffc66d",
+    "brightWhite":  "#ffffff",
+    "black":  "#2d2d2d",
+    "purple":  "#d197d9",
+    "white":  "#cccccc",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#d25252",
+    "name":  "Espresso",
+    "cyan":  "#bed6ff",
+    "background":  "#2d2d2d",
+    "blue":  "#6c99bb",
+    "brightCyan":  "#bed6ff",
+    "brightBlack":  "#777777",
+    "brightGreen":  "#a5c261",
+    "foreground":  "#cccccc",
+    "brightYellow":  "#ffc66d",
+    "brightBlue":  "#6c99bb",
+    "brightPurple":  "#d197d9",
+    "green":  "#a5c261"
+}

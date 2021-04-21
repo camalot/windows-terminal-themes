@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#5299bf",
+    "red":  "#d07346",
+    "yellow":  "#fbd461",
+    "brightWhite":  "#ffffff",
+    "black":  "#061229",
+    "purple":  "#9989cc",
+    "white":  "#b8bbc2",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#d07346",
+    "name":  "PhD",
+    "cyan":  "#72b9bf",
+    "background":  "#061229",
+    "blue":  "#5299bf",
+    "brightCyan":  "#72b9bf",
+    "brightBlack":  "#717885",
+    "brightGreen":  "#99bf52",
+    "foreground":  "#b8bbc2",
+    "brightYellow":  "#fbd461",
+    "brightBlue":  "#5299bf",
+    "brightPurple":  "#9989cc",
+    "green":  "#99bf52"
+}

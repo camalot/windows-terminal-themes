@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#1290bf",
+    "red":  "#dd464c",
+    "yellow":  "#fdcc59",
+    "brightWhite":  "#ffffff",
+    "black":  "#322931",
+    "purple":  "#c85e7c",
+    "white":  "#b9b5b8",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#dd464c",
+    "name":  "Hopscotch",
+    "cyan":  "#149b93",
+    "background":  "#322931",
+    "blue":  "#1290bf",
+    "brightCyan":  "#149b93",
+    "brightBlack":  "#797379",
+    "brightGreen":  "#8fc13e",
+    "foreground":  "#b9b5b8",
+    "brightYellow":  "#fdcc59",
+    "brightBlue":  "#1290bf",
+    "brightPurple":  "#c85e7c",
+    "green":  "#8fc13e"
+}

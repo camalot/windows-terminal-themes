@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#48bac2",
+    "red":  "#9c5a02",
+    "yellow":  "#c48218",
+    "brightWhite":  "#f8f8f8",
+    "black":  "#f6f6f6",
+    "purple":  "#a94598",
+    "white":  "#181818",
+    "cursorColor":  "#f8f8f8",
+    "brightRed":  "#9c5a02",
+    "name":  "iA Light",
+    "cyan":  "#2d6bb1",
+    "background":  "#f6f6f6",
+    "blue":  "#48bac2",
+    "brightCyan":  "#2d6bb1",
+    "brightBlack":  "#898989",
+    "brightGreen":  "#38781c",
+    "foreground":  "#181818",
+    "brightYellow":  "#c48218",
+    "brightBlue":  "#48bac2",
+    "brightPurple":  "#a94598",
+    "green":  "#38781c"
+}

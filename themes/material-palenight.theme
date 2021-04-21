@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#82AAFF",
+    "red":  "#F07178",
+    "yellow":  "#FFCB6B",
+    "brightWhite":  "#FFFFFF",
+    "black":  "#292D3E",
+    "purple":  "#C792EA",
+    "white":  "#959DCB",
+    "cursorColor":  "#FFFFFF",
+    "brightRed":  "#F07178",
+    "name":  "Material Palenight",
+    "cyan":  "#89DDFF",
+    "background":  "#292D3E",
+    "blue":  "#82AAFF",
+    "brightCyan":  "#89DDFF",
+    "brightBlack":  "#676E95",
+    "brightGreen":  "#C3E88D",
+    "foreground":  "#959DCB",
+    "brightYellow":  "#FFCB6B",
+    "brightBlue":  "#82AAFF",
+    "brightPurple":  "#C792EA",
+    "green":  "#C3E88D"
+}

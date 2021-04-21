@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#8ab3b5",
+    "red":  "#cb6077",
+    "yellow":  "#f4bc87",
+    "brightWhite":  "#f5eeeb",
+    "black":  "#3B3228",
+    "purple":  "#a89bb9",
+    "white":  "#d0c8c6",
+    "cursorColor":  "#f5eeeb",
+    "brightRed":  "#cb6077",
+    "name":  "Mocha",
+    "cyan":  "#7bbda4",
+    "background":  "#3B3228",
+    "blue":  "#8ab3b5",
+    "brightCyan":  "#7bbda4",
+    "brightBlack":  "#7e705a",
+    "brightGreen":  "#beb55b",
+    "foreground":  "#d0c8c6",
+    "brightYellow":  "#f4bc87",
+    "brightBlue":  "#8ab3b5",
+    "brightPurple":  "#a89bb9",
+    "green":  "#beb55b"
+}

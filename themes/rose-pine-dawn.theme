@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#56949f",
+    "red":  "#1f1d2e",
+    "yellow":  "#ea9d34",
+    "brightWhite":  "#26233a",
+    "black":  "#faf4ed",
+    "purple":  "#907aa9",
+    "white":  "#575279",
+    "cursorColor":  "#26233a",
+    "brightRed":  "#1f1d2e",
+    "name":  "Rosé Pine Dawn",
+    "cyan":  "#286983",
+    "background":  "#faf4ed",
+    "blue":  "#56949f",
+    "brightCyan":  "#286983",
+    "brightBlack":  "#9893a5",
+    "brightGreen":  "#d7827e",
+    "foreground":  "#575279",
+    "brightYellow":  "#ea9d34",
+    "brightBlue":  "#56949f",
+    "brightPurple":  "#907aa9",
+    "green":  "#d7827e"
+}

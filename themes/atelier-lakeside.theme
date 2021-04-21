@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#257fad",
+    "red":  "#d22d72",
+    "yellow":  "#8a8a0f",
+    "brightWhite":  "#ebf8ff",
+    "black":  "#161b1d",
+    "purple":  "#6b6bb8",
+    "white":  "#7ea2b4",
+    "cursorColor":  "#ebf8ff",
+    "brightRed":  "#d22d72",
+    "name":  "Atelier Lakeside",
+    "cyan":  "#2d8f6f",
+    "background":  "#161b1d",
+    "blue":  "#257fad",
+    "brightCyan":  "#2d8f6f",
+    "brightBlack":  "#5a7b8c",
+    "brightGreen":  "#568c3b",
+    "foreground":  "#7ea2b4",
+    "brightYellow":  "#8a8a0f",
+    "brightBlue":  "#257fad",
+    "brightPurple":  "#6b6bb8",
+    "green":  "#568c3b"
+}

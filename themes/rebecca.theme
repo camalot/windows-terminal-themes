@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#2de0a7",
+    "red":  "#a0a0c5",
+    "yellow":  "#ae81ff",
+    "brightWhite":  "#53495d",
+    "black":  "#292a44",
+    "purple":  "#7aa5ff",
+    "white":  "#f1eff8",
+    "cursorColor":  "#53495d",
+    "brightRed":  "#a0a0c5",
+    "name":  "Rebecca",
+    "cyan":  "#8eaee0",
+    "background":  "#292a44",
+    "blue":  "#2de0a7",
+    "brightCyan":  "#8eaee0",
+    "brightBlack":  "#666699",
+    "brightGreen":  "#6dfedf",
+    "foreground":  "#f1eff8",
+    "brightYellow":  "#ae81ff",
+    "brightBlue":  "#2de0a7",
+    "brightPurple":  "#7aa5ff",
+    "green":  "#6dfedf"
+}

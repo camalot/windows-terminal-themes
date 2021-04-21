@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6684e1",
+    "red":  "#d73737",
+    "yellow":  "#ae9513",
+    "brightWhite":  "#20201d",
+    "black":  "#fefbec",
+    "purple":  "#b854d4",
+    "white":  "#6e6b5e",
+    "cursorColor":  "#20201d",
+    "brightRed":  "#d73737",
+    "name":  "Atelier Dune Light",
+    "cyan":  "#1fad83",
+    "background":  "#fefbec",
+    "blue":  "#6684e1",
+    "brightCyan":  "#1fad83",
+    "brightBlack":  "#999580",
+    "brightGreen":  "#60ac39",
+    "foreground":  "#6e6b5e",
+    "brightYellow":  "#ae9513",
+    "brightBlue":  "#6684e1",
+    "brightPurple":  "#b854d4",
+    "green":  "#60ac39"
+}

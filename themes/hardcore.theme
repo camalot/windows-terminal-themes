@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#66d9ef",
+    "red":  "#f92672",
+    "yellow":  "#e6db74",
+    "brightWhite":  "#ffffff",
+    "black":  "#212121",
+    "purple":  "#9e6ffe",
+    "white":  "#cdcdcd",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#f92672",
+    "name":  "Hardcore",
+    "cyan":  "#708387",
+    "background":  "#212121",
+    "blue":  "#66d9ef",
+    "brightCyan":  "#708387",
+    "brightBlack":  "#4A4A4A",
+    "brightGreen":  "#a6e22e",
+    "foreground":  "#cdcdcd",
+    "brightYellow":  "#e6db74",
+    "brightBlue":  "#66d9ef",
+    "brightPurple":  "#9e6ffe",
+    "green":  "#a6e22e"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#268bd2",
+    "red":  "#dc322f",
+    "yellow":  "#b58900",
+    "brightWhite":  "#002b36",
+    "black":  "#fdf6e3",
+    "purple":  "#6c71c4",
+    "white":  "#586e75",
+    "cursorColor":  "#002b36",
+    "brightRed":  "#dc322f",
+    "name":  "Solarized Light",
+    "cyan":  "#2aa198",
+    "background":  "#fdf6e3",
+    "blue":  "#268bd2",
+    "brightCyan":  "#2aa198",
+    "brightBlack":  "#839496",
+    "brightGreen":  "#859900",
+    "foreground":  "#586e75",
+    "brightYellow":  "#b58900",
+    "brightBlue":  "#268bd2",
+    "brightPurple":  "#6c71c4",
+    "green":  "#859900"
+}

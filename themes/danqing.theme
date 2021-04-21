@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#B0A4E3",
+    "red":  "#F9906F",
+    "yellow":  "#F0C239",
+    "brightWhite":  "#fcfefd",
+    "black":  "#2d302f",
+    "purple":  "#CCA4E3",
+    "white":  "#e0f0eF",
+    "cursorColor":  "#fcfefd",
+    "brightRed":  "#F9906F",
+    "name":  "DanQing",
+    "cyan":  "#30DFF3",
+    "background":  "#2d302f",
+    "blue":  "#B0A4E3",
+    "brightCyan":  "#30DFF3",
+    "brightBlack":  "#9da8a3",
+    "brightGreen":  "#8AB361",
+    "foreground":  "#e0f0eF",
+    "brightYellow":  "#F0C239",
+    "brightBlue":  "#B0A4E3",
+    "brightPurple":  "#CCA4E3",
+    "green":  "#8AB361"
+}

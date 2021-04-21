@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3b48e3",
+    "red":  "#e92f2f",
+    "yellow":  "#dddd13",
+    "brightWhite":  "#000000",
+    "black":  "#f9f9f9",
+    "purple":  "#f996e2",
+    "white":  "#102015",
+    "cursorColor":  "#000000",
+    "brightRed":  "#e92f2f",
+    "name":  "Shapeshifter",
+    "cyan":  "#23edda",
+    "background":  "#f9f9f9",
+    "blue":  "#3b48e3",
+    "brightCyan":  "#23edda",
+    "brightBlack":  "#555555",
+    "brightGreen":  "#0ed839",
+    "foreground":  "#102015",
+    "brightYellow":  "#dddd13",
+    "brightBlue":  "#3b48e3",
+    "brightPurple":  "#f996e2",
+    "green":  "#0ed839"
+}

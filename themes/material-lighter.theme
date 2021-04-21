@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6182B8",
+    "red":  "#FF5370",
+    "yellow":  "#FFB62C",
+    "brightWhite":  "#FFFFFF",
+    "black":  "#FAFAFA",
+    "purple":  "#7C4DFF",
+    "white":  "#80CBC4",
+    "cursorColor":  "#FFFFFF",
+    "brightRed":  "#FF5370",
+    "name":  "Material Lighter",
+    "cyan":  "#39ADB5",
+    "background":  "#FAFAFA",
+    "blue":  "#6182B8",
+    "brightCyan":  "#39ADB5",
+    "brightBlack":  "#CCD7DA",
+    "brightGreen":  "#91B859",
+    "foreground":  "#80CBC4",
+    "brightYellow":  "#FFB62C",
+    "brightBlue":  "#6182B8",
+    "brightPurple":  "#7C4DFF",
+    "green":  "#91B859"
+}

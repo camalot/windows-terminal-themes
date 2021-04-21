@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#2931df",
+    "red":  "#fe3e31",
+    "yellow":  "#f7e203",
+    "brightWhite":  "#2d2c2c",
+    "black":  "#f1ecf1",
+    "purple":  "#611fce",
+    "white":  "#515151",
+    "cursorColor":  "#2d2c2c",
+    "brightRed":  "#fe3e31",
+    "name":  "Fruit Soda",
+    "cyan":  "#0f9cfd",
+    "background":  "#f1ecf1",
+    "blue":  "#2931df",
+    "brightCyan":  "#0f9cfd",
+    "brightBlack":  "#b5b4b6",
+    "brightGreen":  "#47f74c",
+    "foreground":  "#515151",
+    "brightYellow":  "#f7e203",
+    "brightBlue":  "#2931df",
+    "brightPurple":  "#611fce",
+    "green":  "#47f74c"
+}

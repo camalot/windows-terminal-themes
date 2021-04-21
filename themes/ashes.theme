@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#AE95C7",
+    "red":  "#C7AE95",
+    "yellow":  "#AEC795",
+    "brightWhite":  "#F3F4F5",
+    "black":  "#1C2023",
+    "purple":  "#C795AE",
+    "white":  "#C7CCD1",
+    "cursorColor":  "#F3F4F5",
+    "brightRed":  "#C7AE95",
+    "name":  "Ashes",
+    "cyan":  "#95AEC7",
+    "background":  "#1C2023",
+    "blue":  "#AE95C7",
+    "brightCyan":  "#95AEC7",
+    "brightBlack":  "#747C84",
+    "brightGreen":  "#95C7AE",
+    "foreground":  "#C7CCD1",
+    "brightYellow":  "#AEC795",
+    "brightBlue":  "#AE95C7",
+    "brightPurple":  "#C795AE",
+    "green":  "#95C7AE"
+}

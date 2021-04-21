@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#5454fc",
+    "red":  "#fc5454",
+    "yellow":  "#fcfc54",
+    "brightWhite":  "#fcfcfc",
+    "black":  "#000000",
+    "purple":  "#fc54fc",
+    "white":  "#c0c0c0",
+    "cursorColor":  "#fcfcfc",
+    "brightRed":  "#fc5454",
+    "name":  "Windows High Contrast",
+    "cyan":  "#54fcfc",
+    "background":  "#000000",
+    "blue":  "#5454fc",
+    "brightCyan":  "#54fcfc",
+    "brightBlack":  "#545454",
+    "brightGreen":  "#54fc54",
+    "foreground":  "#c0c0c0",
+    "brightYellow":  "#fcfc54",
+    "brightBlue":  "#5454fc",
+    "brightPurple":  "#fc54fc",
+    "green":  "#54fc54"
+}

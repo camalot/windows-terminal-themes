@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#33B5E1",
+    "red":  "#EF5253",
+    "yellow":  "#E4B51C",
+    "brightWhite":  "#F5F7FA",
+    "black":  "#18262F",
+    "purple":  "#A363D5",
+    "white":  "#A6AFB8",
+    "cursorColor":  "#F5F7FA",
+    "brightRed":  "#EF5253",
+    "name":  "Solar Flare",
+    "cyan":  "#52CBB0",
+    "background":  "#18262F",
+    "blue":  "#33B5E1",
+    "brightCyan":  "#52CBB0",
+    "brightBlack":  "#667581",
+    "brightGreen":  "#7CC844",
+    "foreground":  "#A6AFB8",
+    "brightYellow":  "#E4B51C",
+    "brightBlue":  "#33B5E1",
+    "brightPurple":  "#A363D5",
+    "green":  "#7CC844"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#4271ae",
+    "red":  "#c82829",
+    "yellow":  "#eab700",
+    "brightWhite":  "#1d1f21",
+    "black":  "#ffffff",
+    "purple":  "#8959a8",
+    "white":  "#4d4d4c",
+    "cursorColor":  "#1d1f21",
+    "brightRed":  "#c82829",
+    "name":  "Tomorrow",
+    "cyan":  "#3e999f",
+    "background":  "#ffffff",
+    "blue":  "#4271ae",
+    "brightCyan":  "#3e999f",
+    "brightBlack":  "#8e908c",
+    "brightGreen":  "#718c00",
+    "foreground":  "#4d4d4c",
+    "brightYellow":  "#eab700",
+    "brightBlue":  "#4271ae",
+    "brightPurple":  "#8959a8",
+    "green":  "#718c00"
+}

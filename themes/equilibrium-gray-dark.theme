@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#008dd1",
+    "red":  "#f04339",
+    "yellow":  "#bb8801",
+    "brightWhite":  "#e2e2e2",
+    "black":  "#111111",
+    "purple":  "#6a7fd2",
+    "white":  "#ababab",
+    "cursorColor":  "#e2e2e2",
+    "brightRed":  "#f04339",
+    "name":  "Equilibrium Gray Dark",
+    "cyan":  "#00948b",
+    "background":  "#111111",
+    "blue":  "#008dd1",
+    "brightCyan":  "#00948b",
+    "brightBlack":  "#777777",
+    "brightGreen":  "#7f8b00",
+    "foreground":  "#ababab",
+    "brightYellow":  "#bb8801",
+    "brightBlue":  "#008dd1",
+    "brightPurple":  "#6a7fd2",
+    "green":  "#7f8b00"
+}

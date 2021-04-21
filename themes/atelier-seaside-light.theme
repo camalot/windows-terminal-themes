@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3d62f5",
+    "red":  "#e6193c",
+    "yellow":  "#98981b",
+    "brightWhite":  "#131513",
+    "black":  "#f4fbf4",
+    "purple":  "#ad2bee",
+    "white":  "#5e6e5e",
+    "cursorColor":  "#131513",
+    "brightRed":  "#e6193c",
+    "name":  "Atelier Seaside Light",
+    "cyan":  "#1999b3",
+    "background":  "#f4fbf4",
+    "blue":  "#3d62f5",
+    "brightCyan":  "#1999b3",
+    "brightBlack":  "#809980",
+    "brightGreen":  "#29a329",
+    "foreground":  "#5e6e5e",
+    "brightYellow":  "#98981b",
+    "brightBlue":  "#3d62f5",
+    "brightPurple":  "#ad2bee",
+    "green":  "#29a329"
+}

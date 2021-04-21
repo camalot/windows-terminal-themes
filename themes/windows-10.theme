@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3b78ff",
+    "red":  "#e74856",
+    "yellow":  "#f9f1a5",
+    "brightWhite":  "#f2f2f2",
+    "black":  "#0c0c0c",
+    "purple":  "#b4009e",
+    "white":  "#cccccc",
+    "cursorColor":  "#f2f2f2",
+    "brightRed":  "#e74856",
+    "name":  "Windows 10",
+    "cyan":  "#61d6d6",
+    "background":  "#0c0c0c",
+    "blue":  "#3b78ff",
+    "brightCyan":  "#61d6d6",
+    "brightBlack":  "#767676",
+    "brightGreen":  "#16c60c",
+    "foreground":  "#cccccc",
+    "brightYellow":  "#f9f1a5",
+    "brightBlue":  "#3b78ff",
+    "brightPurple":  "#b4009e",
+    "green":  "#16c60c"
+}

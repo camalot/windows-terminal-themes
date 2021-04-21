@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3777E6",
+    "red":  "#FF0086",
+    "yellow":  "#ABA800",
+    "brightWhite":  "#FFFFFF",
+    "black":  "#151515",
+    "purple":  "#AD00A1",
+    "white":  "#D0D0D0",
+    "cursorColor":  "#FFFFFF",
+    "brightRed":  "#FF0086",
+    "name":  "Summerfruit Dark",
+    "cyan":  "#1FAAAA",
+    "background":  "#151515",
+    "blue":  "#3777E6",
+    "brightCyan":  "#1FAAAA",
+    "brightBlack":  "#505050",
+    "brightGreen":  "#00C918",
+    "foreground":  "#D0D0D0",
+    "brightYellow":  "#ABA800",
+    "brightBlue":  "#3777E6",
+    "brightPurple":  "#AD00A1",
+    "green":  "#00C918"
+}

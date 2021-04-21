@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#00a6fb",
+    "red":  "#f11235",
+    "yellow":  "#ffb627",
+    "brightWhite":  "#fcfcfc",
+    "black":  "#232629",
+    "purple":  "#f15ee3",
+    "white":  "#f8f8f2",
+    "cursorColor":  "#fcfcfc",
+    "brightRed":  "#f11235",
+    "name":  "Humanoid dark",
+    "cyan":  "#0dd9d6",
+    "background":  "#232629",
+    "blue":  "#00a6fb",
+    "brightCyan":  "#0dd9d6",
+    "brightBlack":  "#60615d",
+    "brightGreen":  "#02d849",
+    "foreground":  "#f8f8f2",
+    "brightYellow":  "#ffb627",
+    "brightBlue":  "#00a6fb",
+    "brightPurple":  "#f15ee3",
+    "green":  "#02d849"
+}

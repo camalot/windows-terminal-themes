@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3498DB",
+    "red":  "#E74C3C",
+    "yellow":  "#F1C40F",
+    "brightWhite":  "#ECF0F1",
+    "black":  "#2C3E50",
+    "purple":  "#9B59B6",
+    "white":  "#e0e0e0",
+    "cursorColor":  "#ECF0F1",
+    "brightRed":  "#E74C3C",
+    "name":  "Flat",
+    "cyan":  "#1ABC9C",
+    "background":  "#2C3E50",
+    "blue":  "#3498DB",
+    "brightCyan":  "#1ABC9C",
+    "brightBlack":  "#95A5A6",
+    "brightGreen":  "#2ECC71",
+    "foreground":  "#e0e0e0",
+    "brightYellow":  "#F1C40F",
+    "brightBlue":  "#3498DB",
+    "brightPurple":  "#9B59B6",
+    "green":  "#2ECC71"
+}

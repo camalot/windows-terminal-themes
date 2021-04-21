@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#009900",
+    "red":  "#007700",
+    "yellow":  "#007700",
+    "brightWhite":  "#00ff00",
+    "black":  "#001100",
+    "purple":  "#00bb00",
+    "white":  "#00bb00",
+    "cursorColor":  "#00ff00",
+    "brightRed":  "#007700",
+    "name":  "Green Screen",
+    "cyan":  "#005500",
+    "background":  "#001100",
+    "blue":  "#009900",
+    "brightCyan":  "#005500",
+    "brightBlack":  "#007700",
+    "brightGreen":  "#00bb00",
+    "foreground":  "#00bb00",
+    "brightYellow":  "#007700",
+    "brightBlue":  "#009900",
+    "brightPurple":  "#00bb00",
+    "green":  "#00bb00"
+}

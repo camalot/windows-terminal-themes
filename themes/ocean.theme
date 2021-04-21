@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#8fa1b3",
+    "red":  "#bf616a",
+    "yellow":  "#ebcb8b",
+    "brightWhite":  "#eff1f5",
+    "black":  "#2b303b",
+    "purple":  "#b48ead",
+    "white":  "#c0c5ce",
+    "cursorColor":  "#eff1f5",
+    "brightRed":  "#bf616a",
+    "name":  "Ocean",
+    "cyan":  "#96b5b4",
+    "background":  "#2b303b",
+    "blue":  "#8fa1b3",
+    "brightCyan":  "#96b5b4",
+    "brightBlack":  "#65737e",
+    "brightGreen":  "#a3be8c",
+    "foreground":  "#c0c5ce",
+    "brightYellow":  "#ebcb8b",
+    "brightBlue":  "#8fa1b3",
+    "brightPurple":  "#b48ead",
+    "green":  "#a3be8c"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#61afef",
+    "red":  "#e06c75",
+    "yellow":  "#e5c07b",
+    "brightWhite":  "#c8ccd4",
+    "black":  "#282c34",
+    "purple":  "#c678dd",
+    "white":  "#abb2bf",
+    "cursorColor":  "#c8ccd4",
+    "brightRed":  "#e06c75",
+    "name":  "OneDark",
+    "cyan":  "#56b6c2",
+    "background":  "#282c34",
+    "blue":  "#61afef",
+    "brightCyan":  "#56b6c2",
+    "brightBlack":  "#545862",
+    "brightGreen":  "#98c379",
+    "foreground":  "#abb2bf",
+    "brightYellow":  "#e5c07b",
+    "brightBlue":  "#61afef",
+    "brightPurple":  "#c678dd",
+    "green":  "#98c379"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3971ED",
+    "red":  "#CC342B",
+    "yellow":  "#FBA922",
+    "brightWhite":  "#ffffff",
+    "black":  "#1d1f21",
+    "purple":  "#A36AC7",
+    "white":  "#c5c8c6",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#CC342B",
+    "name":  "Google Dark",
+    "cyan":  "#3971ED",
+    "background":  "#1d1f21",
+    "blue":  "#3971ED",
+    "brightCyan":  "#3971ED",
+    "brightBlack":  "#969896",
+    "brightGreen":  "#198844",
+    "foreground":  "#c5c8c6",
+    "brightYellow":  "#FBA922",
+    "brightBlue":  "#3971ED",
+    "brightPurple":  "#A36AC7",
+    "green":  "#198844"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3d62f5",
+    "red":  "#e6193c",
+    "yellow":  "#98981b",
+    "brightWhite":  "#f4fbf4",
+    "black":  "#131513",
+    "purple":  "#ad2bee",
+    "white":  "#8ca68c",
+    "cursorColor":  "#f4fbf4",
+    "brightRed":  "#e6193c",
+    "name":  "Atelier Seaside",
+    "cyan":  "#1999b3",
+    "background":  "#131513",
+    "blue":  "#3d62f5",
+    "brightCyan":  "#1999b3",
+    "brightBlack":  "#687d68",
+    "brightGreen":  "#29a329",
+    "foreground":  "#8ca68c",
+    "brightYellow":  "#98981b",
+    "brightBlue":  "#3d62f5",
+    "brightPurple":  "#ad2bee",
+    "green":  "#29a329"
+}

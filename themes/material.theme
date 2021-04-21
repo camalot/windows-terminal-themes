@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#82AAFF",
+    "red":  "#F07178",
+    "yellow":  "#FFCB6B",
+    "brightWhite":  "#FFFFFF",
+    "black":  "#263238",
+    "purple":  "#C792EA",
+    "white":  "#EEFFFF",
+    "cursorColor":  "#FFFFFF",
+    "brightRed":  "#F07178",
+    "name":  "Material",
+    "cyan":  "#89DDFF",
+    "background":  "#263238",
+    "blue":  "#82AAFF",
+    "brightCyan":  "#89DDFF",
+    "brightBlack":  "#546E7A",
+    "brightGreen":  "#C3E88D",
+    "foreground":  "#EEFFFF",
+    "brightYellow":  "#FFCB6B",
+    "brightBlue":  "#82AAFF",
+    "brightPurple":  "#C792EA",
+    "green":  "#C3E88D"
+}

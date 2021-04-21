@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0000ff",
+    "red":  "#ff0000",
+    "yellow":  "#ffff00",
+    "brightWhite":  "#ffffff",
+    "black":  "#000000",
+    "purple":  "#ff00ff",
+    "white":  "#c0c0c0",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#ff0000",
+    "name":  "Windows NT",
+    "cyan":  "#00ffff",
+    "background":  "#000000",
+    "blue":  "#0000ff",
+    "brightCyan":  "#00ffff",
+    "brightBlack":  "#808080",
+    "brightGreen":  "#00ff00",
+    "foreground":  "#c0c0c0",
+    "brightYellow":  "#ffff00",
+    "brightBlue":  "#0000ff",
+    "brightPurple":  "#ff00ff",
+    "green":  "#00ff00"
+}

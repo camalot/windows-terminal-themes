@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#5350b9",
+    "red":  "#d6dbe5",
+    "yellow":  "#1dd361",
+    "brightWhite":  "#d6dbe5",
+    "black":  "#1f1f1f",
+    "purple":  "#0f7ddb",
+    "white":  "#4e5ab7",
+    "cursorColor":  "#d6dbe5",
+    "brightRed":  "#d6dbe5",
+    "name":  "Brogrammer",
+    "cyan":  "#1081d6",
+    "background":  "#1f1f1f",
+    "blue":  "#5350b9",
+    "brightCyan":  "#1081d6",
+    "brightBlack":  "#ecba0f",
+    "brightGreen":  "#f3bd09",
+    "foreground":  "#4e5ab7",
+    "brightYellow":  "#1dd361",
+    "brightBlue":  "#5350b9",
+    "brightPurple":  "#0f7ddb",
+    "green":  "#f3bd09"
+}

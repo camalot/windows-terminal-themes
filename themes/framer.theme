@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#20BCFC",
+    "red":  "#FD886B",
+    "yellow":  "#FECB6E",
+    "brightWhite":  "#EEEEEE",
+    "black":  "#181818",
+    "purple":  "#BA8CFC",
+    "white":  "#D0D0D0",
+    "cursorColor":  "#EEEEEE",
+    "brightRed":  "#FD886B",
+    "name":  "Framer",
+    "cyan":  "#ACDDFD",
+    "background":  "#181818",
+    "blue":  "#20BCFC",
+    "brightCyan":  "#ACDDFD",
+    "brightBlack":  "#747474",
+    "brightGreen":  "#32CCDC",
+    "foreground":  "#D0D0D0",
+    "brightYellow":  "#FECB6E",
+    "brightBlue":  "#20BCFC",
+    "brightPurple":  "#BA8CFC",
+    "green":  "#32CCDC"
+}

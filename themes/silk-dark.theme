@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#46bddd",
+    "red":  "#fb6953",
+    "yellow":  "#fce380",
+    "brightWhite":  "#D2FAFF",
+    "black":  "#0e3c46",
+    "purple":  "#756b8a",
+    "white":  "#C7DBDD",
+    "cursorColor":  "#D2FAFF",
+    "brightRed":  "#fb6953",
+    "name":  "Silk Dark",
+    "cyan":  "#3fb2b9",
+    "background":  "#0e3c46",
+    "blue":  "#46bddd",
+    "brightCyan":  "#3fb2b9",
+    "brightBlack":  "#587073",
+    "brightGreen":  "#73d8ad",
+    "foreground":  "#C7DBDD",
+    "brightYellow":  "#fce380",
+    "brightBlue":  "#46bddd",
+    "brightPurple":  "#756b8a",
+    "green":  "#73d8ad"
+}

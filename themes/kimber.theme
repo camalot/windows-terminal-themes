@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#537C9C",
+    "red":  "#C88C8C",
+    "yellow":  "#D8B56D",
+    "brightWhite":  "#FFFFE6",
+    "black":  "#222222",
+    "purple":  "#86CACD",
+    "white":  "#DEDEE7",
+    "cursorColor":  "#FFFFE6",
+    "brightRed":  "#C88C8C",
+    "name":  "Kimber",
+    "cyan":  "#78B4B4",
+    "background":  "#222222",
+    "blue":  "#537C9C",
+    "brightCyan":  "#78B4B4",
+    "brightBlack":  "#644646",
+    "brightGreen":  "#99C899",
+    "foreground":  "#DEDEE7",
+    "brightYellow":  "#D8B56D",
+    "brightBlue":  "#537C9C",
+    "brightPurple":  "#86CACD",
+    "green":  "#99C899"
+}

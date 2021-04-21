@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#06b6ef",
+    "red":  "#ef6155",
+    "yellow":  "#fec418",
+    "brightWhite":  "#e7e9db",
+    "black":  "#2f1e2e",
+    "purple":  "#815ba4",
+    "white":  "#a39e9b",
+    "cursorColor":  "#e7e9db",
+    "brightRed":  "#ef6155",
+    "name":  "Paraiso",
+    "cyan":  "#5bc4bf",
+    "background":  "#2f1e2e",
+    "blue":  "#06b6ef",
+    "brightCyan":  "#5bc4bf",
+    "brightBlack":  "#776e71",
+    "brightGreen":  "#48b685",
+    "foreground":  "#a39e9b",
+    "brightYellow":  "#fec418",
+    "brightBlue":  "#06b6ef",
+    "brightPurple":  "#815ba4",
+    "green":  "#48b685"
+}

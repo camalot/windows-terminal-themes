@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#83a598",
+    "red":  "#fb4934",
+    "yellow":  "#fabd2f",
+    "brightWhite":  "#fbf1c7",
+    "black":  "#282828",
+    "purple":  "#d3869b",
+    "white":  "#d5c4a1",
+    "cursorColor":  "#fbf1c7",
+    "brightRed":  "#fb4934",
+    "name":  "Gruvbox dark, medium",
+    "cyan":  "#8ec07c",
+    "background":  "#282828",
+    "blue":  "#83a598",
+    "brightCyan":  "#8ec07c",
+    "brightBlack":  "#665c54",
+    "brightGreen":  "#b8bb26",
+    "foreground":  "#d5c4a1",
+    "brightYellow":  "#fabd2f",
+    "brightBlue":  "#83a598",
+    "brightPurple":  "#d3869b",
+    "green":  "#b8bb26"
+}

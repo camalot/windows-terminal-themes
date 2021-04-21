@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#4136d9",
+    "red":  "#a82ee6",
+    "yellow":  "#f29df2",
+    "brightWhite":  "#a366ff",
+    "black":  "#000000",
+    "purple":  "#7e5ce6",
+    "white":  "#b08ae6",
+    "cursorColor":  "#a366ff",
+    "brightRed":  "#a82ee6",
+    "name":  "Dark Violet",
+    "cyan":  "#40dfff",
+    "background":  "#000000",
+    "blue":  "#4136d9",
+    "brightCyan":  "#40dfff",
+    "brightBlack":  "#593380",
+    "brightGreen":  "#4595e6",
+    "foreground":  "#b08ae6",
+    "brightYellow":  "#f29df2",
+    "brightBlue":  "#4136d9",
+    "brightPurple":  "#7e5ce6",
+    "green":  "#4595e6"
+}

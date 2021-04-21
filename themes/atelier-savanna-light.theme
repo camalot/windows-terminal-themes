@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#478c90",
+    "red":  "#b16139",
+    "yellow":  "#a07e3b",
+    "brightWhite":  "#171c19",
+    "black":  "#ecf4ee",
+    "purple":  "#55859b",
+    "white":  "#526057",
+    "cursorColor":  "#171c19",
+    "brightRed":  "#b16139",
+    "name":  "Atelier Savanna Light",
+    "cyan":  "#1c9aa0",
+    "background":  "#ecf4ee",
+    "blue":  "#478c90",
+    "brightCyan":  "#1c9aa0",
+    "brightBlack":  "#78877d",
+    "brightGreen":  "#489963",
+    "foreground":  "#526057",
+    "brightYellow":  "#a07e3b",
+    "brightBlue":  "#478c90",
+    "brightPurple":  "#55859b",
+    "green":  "#489963"
+}

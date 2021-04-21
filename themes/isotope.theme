@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0066ff",
+    "red":  "#ff0000",
+    "yellow":  "#ff0099",
+    "brightWhite":  "#ffffff",
+    "black":  "#000000",
+    "purple":  "#cc00ff",
+    "white":  "#d0d0d0",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#ff0000",
+    "name":  "Isotope",
+    "cyan":  "#00ffff",
+    "background":  "#000000",
+    "blue":  "#0066ff",
+    "brightCyan":  "#00ffff",
+    "brightBlack":  "#808080",
+    "brightGreen":  "#33ff00",
+    "foreground":  "#d0d0d0",
+    "brightYellow":  "#ff0099",
+    "brightBlue":  "#0066ff",
+    "brightPurple":  "#cc00ff",
+    "green":  "#33ff00"
+}

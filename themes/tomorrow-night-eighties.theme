@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6699cc",
+    "red":  "#f2777a",
+    "yellow":  "#ffcc66",
+    "brightWhite":  "#ffffff",
+    "black":  "#2d2d2d",
+    "purple":  "#cc99cc",
+    "white":  "#cccccc",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#f2777a",
+    "name":  "Tomorrow Night",
+    "cyan":  "#66cccc",
+    "background":  "#2d2d2d",
+    "blue":  "#6699cc",
+    "brightCyan":  "#66cccc",
+    "brightBlack":  "#999999",
+    "brightGreen":  "#99cc99",
+    "foreground":  "#cccccc",
+    "brightYellow":  "#ffcc66",
+    "brightBlue":  "#6699cc",
+    "brightPurple":  "#cc99cc",
+    "green":  "#99cc99"
+}

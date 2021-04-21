@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#66B0FF",
+    "red":  "#FF4242",
+    "yellow":  "#F3E877",
+    "brightWhite":  "#F5F5FF",
+    "black":  "#00002A",
+    "purple":  "#F10596",
+    "white":  "#D0D0FA",
+    "cursorColor":  "#F5F5FF",
+    "brightRed":  "#FF4242",
+    "name":  "Outrun Dark",
+    "cyan":  "#0EF0F0",
+    "background":  "#00002A",
+    "blue":  "#66B0FF",
+    "brightCyan":  "#0EF0F0",
+    "brightBlack":  "#50507A",
+    "brightGreen":  "#59F176",
+    "foreground":  "#D0D0FA",
+    "brightYellow":  "#F3E877",
+    "brightBlue":  "#66B0FF",
+    "brightPurple":  "#F10596",
+    "green":  "#59F176"
+}

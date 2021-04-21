@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#7cafc2",
+    "red":  "#ab4642",
+    "yellow":  "#f79a0e",
+    "brightWhite":  "#181818",
+    "black":  "#f8f8f8",
+    "purple":  "#96609e",
+    "white":  "#383838",
+    "cursorColor":  "#181818",
+    "brightRed":  "#ab4642",
+    "name":  "Mexico Light",
+    "cyan":  "#4b8093",
+    "background":  "#f8f8f8",
+    "blue":  "#7cafc2",
+    "brightCyan":  "#4b8093",
+    "brightBlack":  "#b8b8b8",
+    "brightGreen":  "#538947",
+    "foreground":  "#383838",
+    "brightYellow":  "#f79a0e",
+    "brightBlue":  "#7cafc2",
+    "brightPurple":  "#96609e",
+    "green":  "#538947"
+}

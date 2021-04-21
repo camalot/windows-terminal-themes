@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#7272ca",
+    "red":  "#ca4949",
+    "yellow":  "#a06e3b",
+    "brightWhite":  "#1b1818",
+    "black":  "#f4ecec",
+    "purple":  "#8464c4",
+    "white":  "#585050",
+    "cursorColor":  "#1b1818",
+    "brightRed":  "#ca4949",
+    "name":  "Atelier Plateau Light",
+    "cyan":  "#5485b6",
+    "background":  "#f4ecec",
+    "blue":  "#7272ca",
+    "brightCyan":  "#5485b6",
+    "brightBlack":  "#7e7777",
+    "brightGreen":  "#4b8b8b",
+    "foreground":  "#585050",
+    "brightYellow":  "#a06e3b",
+    "brightBlue":  "#7272ca",
+    "brightPurple":  "#8464c4",
+    "green":  "#4b8b8b"
+}

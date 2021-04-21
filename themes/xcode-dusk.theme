@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#790EAD",
+    "red":  "#B21889",
+    "yellow":  "#438288",
+    "brightWhite":  "#BEBFC2",
+    "black":  "#282B35",
+    "purple":  "#B21889",
+    "white":  "#939599",
+    "cursorColor":  "#BEBFC2",
+    "brightRed":  "#B21889",
+    "name":  "XCode Dusk",
+    "cyan":  "#00A0BE",
+    "background":  "#282B35",
+    "blue":  "#790EAD",
+    "brightCyan":  "#00A0BE",
+    "brightBlack":  "#686A71",
+    "brightGreen":  "#DF0002",
+    "foreground":  "#939599",
+    "brightYellow":  "#438288",
+    "brightBlue":  "#790EAD",
+    "brightPurple":  "#B21889",
+    "green":  "#DF0002"
+}

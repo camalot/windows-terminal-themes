@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6587bf",
+    "red":  "#db7070",
+    "yellow":  "#d69822",
+    "brightWhite":  "#5e646f",
+    "black":  "#fafafa",
+    "purple":  "#b870ce",
+    "white":  "#5e646f",
+    "cursorColor":  "#5e646f",
+    "brightRed":  "#db7070",
+    "name":  "Edge Light",
+    "cyan":  "#509c93",
+    "background":  "#fafafa",
+    "blue":  "#6587bf",
+    "brightCyan":  "#509c93",
+    "brightBlack":  "#5e646f",
+    "brightGreen":  "#7c9f4b",
+    "foreground":  "#5e646f",
+    "brightYellow":  "#d69822",
+    "brightBlue":  "#6587bf",
+    "brightPurple":  "#b870ce",
+    "green":  "#7c9f4b"
+}

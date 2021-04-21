@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#639ee4",
+    "red":  "#dc657d",
+    "yellow":  "#c3ba63",
+    "brightWhite":  "#ffffff",
+    "black":  "#191919",
+    "purple":  "#b888e2",
+    "white":  "#a7a7a7",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#dc657d",
+    "name":  "Circus",
+    "cyan":  "#4bb1a7",
+    "background":  "#191919",
+    "blue":  "#639ee4",
+    "brightCyan":  "#4bb1a7",
+    "brightBlack":  "#5f5a60",
+    "brightGreen":  "#84b97c",
+    "foreground":  "#a7a7a7",
+    "brightYellow":  "#c3ba63",
+    "brightBlue":  "#639ee4",
+    "brightPurple":  "#b888e2",
+    "green":  "#84b97c"
+}

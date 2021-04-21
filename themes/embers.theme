@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6D5782",
+    "red":  "#826D57",
+    "yellow":  "#6D8257",
+    "brightWhite":  "#DBD6D1",
+    "black":  "#16130F",
+    "purple":  "#82576D",
+    "white":  "#A39A90",
+    "cursorColor":  "#DBD6D1",
+    "brightRed":  "#826D57",
+    "name":  "Embers",
+    "cyan":  "#576D82",
+    "background":  "#16130F",
+    "blue":  "#6D5782",
+    "brightCyan":  "#576D82",
+    "brightBlack":  "#5A5047",
+    "brightGreen":  "#57826D",
+    "foreground":  "#A39A90",
+    "brightYellow":  "#6D8257",
+    "brightBlue":  "#6D5782",
+    "brightPurple":  "#82576D",
+    "green":  "#57826D"
+}

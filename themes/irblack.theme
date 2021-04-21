@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#96cbfe",
+    "red":  "#ff6c60",
+    "yellow":  "#ffffb6",
+    "brightWhite":  "#fdfbee",
+    "black":  "#000000",
+    "purple":  "#ff73fd",
+    "white":  "#b5b3aa",
+    "cursorColor":  "#fdfbee",
+    "brightRed":  "#ff6c60",
+    "name":  "IR Black",
+    "cyan":  "#c6c5fe",
+    "background":  "#000000",
+    "blue":  "#96cbfe",
+    "brightCyan":  "#c6c5fe",
+    "brightBlack":  "#6c6c66",
+    "brightGreen":  "#a8ff60",
+    "foreground":  "#b5b3aa",
+    "brightYellow":  "#ffffb6",
+    "brightBlue":  "#96cbfe",
+    "brightPurple":  "#ff73fd",
+    "green":  "#a8ff60"
+}

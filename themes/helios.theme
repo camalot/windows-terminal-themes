@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#1e8bac",
+    "red":  "#d72638",
+    "yellow":  "#f19d1a",
+    "brightWhite":  "#e5e5e5",
+    "black":  "#1d2021",
+    "purple":  "#be4264",
+    "white":  "#d5d5d5",
+    "cursorColor":  "#e5e5e5",
+    "brightRed":  "#d72638",
+    "name":  "Helios",
+    "cyan":  "#1ba595",
+    "background":  "#1d2021",
+    "blue":  "#1e8bac",
+    "brightCyan":  "#1ba595",
+    "brightBlack":  "#6f7579",
+    "brightGreen":  "#88b92d",
+    "foreground":  "#d5d5d5",
+    "brightYellow":  "#f19d1a",
+    "brightBlue":  "#1e8bac",
+    "brightPurple":  "#be4264",
+    "green":  "#88b92d"
+}

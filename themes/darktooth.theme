@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0D6678",
+    "red":  "#FB543F",
+    "yellow":  "#FAC03B",
+    "brightWhite":  "#FDF4C1",
+    "black":  "#1D2021",
+    "purple":  "#8F4673",
+    "white":  "#A89984",
+    "cursorColor":  "#FDF4C1",
+    "brightRed":  "#FB543F",
+    "name":  "Darktooth",
+    "cyan":  "#8BA59B",
+    "background":  "#1D2021",
+    "blue":  "#0D6678",
+    "brightCyan":  "#8BA59B",
+    "brightBlack":  "#665C54",
+    "brightGreen":  "#95C085",
+    "foreground":  "#A89984",
+    "brightYellow":  "#FAC03B",
+    "brightBlue":  "#0D6678",
+    "brightPurple":  "#8F4673",
+    "green":  "#95C085"
+}

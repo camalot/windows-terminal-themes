@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#7cb8bb",
+    "red":  "#dca3a3",
+    "yellow":  "#e0cf9f",
+    "brightWhite":  "#ffffff",
+    "black":  "#383838",
+    "purple":  "#dc8cc3",
+    "white":  "#dcdccc",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#dca3a3",
+    "name":  "Zenburn",
+    "cyan":  "#93e0e3",
+    "background":  "#383838",
+    "blue":  "#7cb8bb",
+    "brightCyan":  "#93e0e3",
+    "brightBlack":  "#6f6f6f",
+    "brightGreen":  "#5f7f5f",
+    "foreground":  "#dcdccc",
+    "brightYellow":  "#e0cf9f",
+    "brightBlue":  "#7cb8bb",
+    "brightPurple":  "#dc8cc3",
+    "green":  "#5f7f5f"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#90bee1",
+    "red":  "#ff7f7b",
+    "yellow":  "#ffd67c",
+    "brightWhite":  "#ffffff",
+    "black":  "#2d2d2d",
+    "purple":  "#efb3f7",
+    "white":  "#cccccc",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#ff7f7b",
+    "name":  "Decaf",
+    "cyan":  "#bed6ff",
+    "background":  "#2d2d2d",
+    "blue":  "#90bee1",
+    "brightCyan":  "#bed6ff",
+    "brightBlack":  "#777777",
+    "brightGreen":  "#beda78",
+    "foreground":  "#cccccc",
+    "brightYellow":  "#ffd67c",
+    "brightBlue":  "#90bee1",
+    "brightPurple":  "#efb3f7",
+    "green":  "#beda78"
+}

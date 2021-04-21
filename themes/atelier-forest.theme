@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#407ee7",
+    "red":  "#f22c40",
+    "yellow":  "#c38418",
+    "brightWhite":  "#f1efee",
+    "black":  "#1b1918",
+    "purple":  "#6666ea",
+    "white":  "#a8a19f",
+    "cursorColor":  "#f1efee",
+    "brightRed":  "#f22c40",
+    "name":  "Atelier Forest",
+    "cyan":  "#3d97b8",
+    "background":  "#1b1918",
+    "blue":  "#407ee7",
+    "brightCyan":  "#3d97b8",
+    "brightBlack":  "#766e6b",
+    "brightGreen":  "#7b9726",
+    "foreground":  "#a8a19f",
+    "brightYellow":  "#c38418",
+    "brightBlue":  "#407ee7",
+    "brightPurple":  "#6666ea",
+    "green":  "#7b9726"
+}

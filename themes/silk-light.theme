@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#39AAC9",
+    "red":  "#CF432E",
+    "yellow":  "#CFAD25",
+    "brightWhite":  "#D2FAFF",
+    "black":  "#E9F1EF",
+    "purple":  "#6E6582",
+    "white":  "#385156",
+    "cursorColor":  "#D2FAFF",
+    "brightRed":  "#CF432E",
+    "name":  "Silk Light",
+    "cyan":  "#329CA2",
+    "background":  "#E9F1EF",
+    "blue":  "#39AAC9",
+    "brightCyan":  "#329CA2",
+    "brightBlack":  "#5C787B",
+    "brightGreen":  "#6CA38C",
+    "foreground":  "#385156",
+    "brightYellow":  "#CFAD25",
+    "brightBlue":  "#39AAC9",
+    "brightPurple":  "#6E6582",
+    "green":  "#6CA38C"
+}

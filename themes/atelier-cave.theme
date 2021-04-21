@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#576ddb",
+    "red":  "#be4678",
+    "yellow":  "#a06e3b",
+    "brightWhite":  "#efecf4",
+    "black":  "#19171c",
+    "purple":  "#955ae7",
+    "white":  "#8b8792",
+    "cursorColor":  "#efecf4",
+    "brightRed":  "#be4678",
+    "name":  "Atelier Cave",
+    "cyan":  "#398bc6",
+    "background":  "#19171c",
+    "blue":  "#576ddb",
+    "brightCyan":  "#398bc6",
+    "brightBlack":  "#655f6d",
+    "brightGreen":  "#2a9292",
+    "foreground":  "#8b8792",
+    "brightYellow":  "#a06e3b",
+    "brightBlue":  "#576ddb",
+    "brightPurple":  "#955ae7",
+    "green":  "#2a9292"
+}

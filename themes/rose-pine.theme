@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#9ccfd8",
+    "red":  "#e2e1e7",
+    "yellow":  "#f6c177",
+    "brightWhite":  "#c5c3ce",
+    "black":  "#191724",
+    "purple":  "#c4a7e7",
+    "white":  "#e0def4",
+    "cursorColor":  "#c5c3ce",
+    "brightRed":  "#e2e1e7",
+    "name":  "Rosé Pine",
+    "cyan":  "#31748f",
+    "background":  "#191724",
+    "blue":  "#9ccfd8",
+    "brightCyan":  "#31748f",
+    "brightBlack":  "#555169",
+    "brightGreen":  "#ebbcba",
+    "foreground":  "#e0def4",
+    "brightYellow":  "#f6c177",
+    "brightBlue":  "#9ccfd8",
+    "brightPurple":  "#c4a7e7",
+    "green":  "#ebbcba"
+}

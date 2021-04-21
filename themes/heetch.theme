@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#BD0152",
+    "red":  "#27D9D5",
+    "yellow":  "#8F6C97",
+    "brightWhite":  "#FEFFFF",
+    "black":  "#190134",
+    "purple":  "#82034C",
+    "white":  "#BDB6C5",
+    "cursorColor":  "#FEFFFF",
+    "brightRed":  "#27D9D5",
+    "name":  "Heetch Dark",
+    "cyan":  "#F80059",
+    "background":  "#190134",
+    "blue":  "#BD0152",
+    "brightCyan":  "#F80059",
+    "brightBlack":  "#7B6D8B",
+    "brightGreen":  "#C33678",
+    "foreground":  "#BDB6C5",
+    "brightYellow":  "#8F6C97",
+    "brightBlue":  "#BD0152",
+    "brightPurple":  "#82034C",
+    "green":  "#C33678"
+}

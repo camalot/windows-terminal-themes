@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#d75f00",
+    "red":  "#bcbcbc",
+    "yellow":  "#d70087",
+    "brightWhite":  "#878787",
+    "black":  "#eeeeee",
+    "purple":  "#005faf",
+    "white":  "#444444",
+    "cursorColor":  "#878787",
+    "brightRed":  "#bcbcbc",
+    "name":  "PaperColor Light",
+    "cyan":  "#d75f00",
+    "background":  "#eeeeee",
+    "blue":  "#d75f00",
+    "brightCyan":  "#d75f00",
+    "brightBlack":  "#5f8700",
+    "brightGreen":  "#8700af",
+    "foreground":  "#444444",
+    "brightYellow":  "#d70087",
+    "brightBlue":  "#d75f00",
+    "brightPurple":  "#005faf",
+    "green":  "#8700af"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#7297B9",
+    "red":  "#D57E85",
+    "yellow":  "#DCB16C",
+    "brightWhite":  "#585062",
+    "black":  "#fbf1f2",
+    "purple":  "#BB99B4",
+    "white":  "#8b8198",
+    "cursorColor":  "#585062",
+    "brightRed":  "#D57E85",
+    "name":  "Cupcake",
+    "cyan":  "#69A9A7",
+    "background":  "#fbf1f2",
+    "blue":  "#7297B9",
+    "brightCyan":  "#69A9A7",
+    "brightBlack":  "#bfb9c6",
+    "brightGreen":  "#A3B367",
+    "foreground":  "#8b8198",
+    "brightYellow":  "#DCB16C",
+    "brightBlue":  "#7297B9",
+    "brightPurple":  "#BB99B4",
+    "green":  "#A3B367"
+}

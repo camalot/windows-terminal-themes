@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#009ddc",
+    "red":  "#ee2e24",
+    "yellow":  "#ffd204",
+    "brightWhite":  "#ffffff",
+    "black":  "#231f20",
+    "purple":  "#98005d",
+    "white":  "#d9d8d8",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#ee2e24",
+    "name":  "London Tube",
+    "cyan":  "#85cebc",
+    "background":  "#231f20",
+    "blue":  "#009ddc",
+    "brightCyan":  "#85cebc",
+    "brightBlack":  "#737171",
+    "brightGreen":  "#00853e",
+    "foreground":  "#d9d8d8",
+    "brightYellow":  "#ffd204",
+    "brightBlue":  "#009ddc",
+    "brightPurple":  "#98005d",
+    "green":  "#00853e"
+}

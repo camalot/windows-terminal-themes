@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#36a166",
+    "red":  "#ba6236",
+    "yellow":  "#a5980d",
+    "brightWhite":  "#22221b",
+    "black":  "#f4f3ec",
+    "purple":  "#5f9182",
+    "white":  "#5f5e4e",
+    "cursorColor":  "#22221b",
+    "brightRed":  "#ba6236",
+    "name":  "Atelier Estuary Light",
+    "cyan":  "#5b9d48",
+    "background":  "#f4f3ec",
+    "blue":  "#36a166",
+    "brightCyan":  "#5b9d48",
+    "brightBlack":  "#878573",
+    "brightGreen":  "#7d9726",
+    "foreground":  "#5f5e4e",
+    "brightYellow":  "#a5980d",
+    "brightBlue":  "#36a166",
+    "brightPurple":  "#5f9182",
+    "green":  "#7d9726"
+}

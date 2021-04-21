@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#1ae1dc",
+    "red":  "#c4676c",
+    "yellow":  "#cfd05d",
+    "brightWhite":  "#ffffff",
+    "black":  "#2a3b4d",
+    "purple":  "#9c6cd3",
+    "white":  "#9fa2a6",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#c4676c",
+    "name":  "Eva Dim",
+    "cyan":  "#4b8f77",
+    "background":  "#2a3b4d",
+    "blue":  "#1ae1dc",
+    "brightCyan":  "#4b8f77",
+    "brightBlack":  "#55799c",
+    "brightGreen":  "#5de561",
+    "foreground":  "#9fa2a6",
+    "brightYellow":  "#cfd05d",
+    "brightBlue":  "#1ae1dc",
+    "brightPurple":  "#9c6cd3",
+    "green":  "#5de561"
+}

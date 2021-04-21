@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#977d7c",
+    "red":  "#818591",
+    "yellow":  "#adb4b9",
+    "brightWhite":  "#214d68",
+    "black":  "#041523",
+    "purple":  "#9198a3",
+    "white":  "#5b778c",
+    "cursorColor":  "#214d68",
+    "brightRed":  "#818591",
+    "name":  "vulcan",
+    "cyan":  "#977d7c",
+    "background":  "#041523",
+    "blue":  "#977d7c",
+    "brightCyan":  "#977d7c",
+    "brightBlack":  "#7a5759",
+    "brightGreen":  "#977d7c",
+    "foreground":  "#5b778c",
+    "brightYellow":  "#adb4b9",
+    "brightBlue":  "#977d7c",
+    "brightPurple":  "#9198a3",
+    "green":  "#977d7c"
+}

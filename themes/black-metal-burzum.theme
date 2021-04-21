@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#888888",
+    "red":  "#5f8787",
+    "yellow":  "#99bbaa",
+    "brightWhite":  "#c1c1c1",
+    "black":  "#000000",
+    "purple":  "#999999",
+    "white":  "#c1c1c1",
+    "cursorColor":  "#c1c1c1",
+    "brightRed":  "#5f8787",
+    "name":  "Black Metal (Burzum)",
+    "cyan":  "#aaaaaa",
+    "background":  "#000000",
+    "blue":  "#888888",
+    "brightCyan":  "#aaaaaa",
+    "brightBlack":  "#333333",
+    "brightGreen":  "#ddeecc",
+    "foreground":  "#c1c1c1",
+    "brightYellow":  "#99bbaa",
+    "brightBlue":  "#888888",
+    "brightPurple":  "#999999",
+    "green":  "#ddeecc"
+}

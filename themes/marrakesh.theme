@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#477ca1",
+    "red":  "#c35359",
+    "yellow":  "#a88339",
+    "brightWhite":  "#faf0a5",
+    "black":  "#201602",
+    "purple":  "#8868b3",
+    "white":  "#948e48",
+    "cursorColor":  "#faf0a5",
+    "brightRed":  "#c35359",
+    "name":  "Marrakesh",
+    "cyan":  "#75a738",
+    "background":  "#201602",
+    "blue":  "#477ca1",
+    "brightCyan":  "#75a738",
+    "brightBlack":  "#6c6823",
+    "brightGreen":  "#18974e",
+    "foreground":  "#948e48",
+    "brightYellow":  "#a88339",
+    "brightBlue":  "#477ca1",
+    "brightPurple":  "#8868b3",
+    "green":  "#18974e"
+}

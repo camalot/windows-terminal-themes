@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#795da3",
+    "red":  "#ed6a43",
+    "yellow":  "#795da3",
+    "brightWhite":  "#ffffff",
+    "black":  "#ffffff",
+    "purple":  "#a71d5d",
+    "white":  "#333333",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#ed6a43",
+    "name":  "Github",
+    "cyan":  "#183691",
+    "background":  "#ffffff",
+    "blue":  "#795da3",
+    "brightCyan":  "#183691",
+    "brightBlack":  "#969896",
+    "brightGreen":  "#183691",
+    "foreground":  "#333333",
+    "brightYellow":  "#795da3",
+    "brightBlue":  "#795da3",
+    "brightPurple":  "#a71d5d",
+    "green":  "#183691"
+}

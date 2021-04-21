@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#007300",
+    "red":  "#840000",
+    "yellow":  "#755B00",
+    "brightWhite":  "#c4d9c4",
+    "black":  "#e0e0e0",
+    "purple":  "#000090",
+    "white":  "#000000",
+    "cursorColor":  "#c4d9c4",
+    "brightRed":  "#840000",
+    "name":  "dirtysea",
+    "cyan":  "#755B00",
+    "background":  "#e0e0e0",
+    "blue":  "#007300",
+    "brightCyan":  "#755B00",
+    "brightBlack":  "#707070",
+    "brightGreen":  "#730073",
+    "foreground":  "#000000",
+    "brightYellow":  "#755B00",
+    "brightBlue":  "#007300",
+    "brightPurple":  "#000090",
+    "green":  "#730073"
+}

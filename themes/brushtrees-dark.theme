@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#868cb3",
+    "red":  "#b38686",
+    "yellow":  "#aab386",
+    "brightWhite":  "#E3EFEF",
+    "black":  "#485867",
+    "purple":  "#b386b2",
+    "white":  "#B0C5C8",
+    "cursorColor":  "#E3EFEF",
+    "brightRed":  "#b38686",
+    "name":  "Brush Trees Dark",
+    "cyan":  "#86b3b3",
+    "background":  "#485867",
+    "blue":  "#868cb3",
+    "brightCyan":  "#86b3b3",
+    "brightBlack":  "#8299A1",
+    "brightGreen":  "#87b386",
+    "foreground":  "#B0C5C8",
+    "brightYellow":  "#aab386",
+    "brightBlue":  "#868cb3",
+    "brightPurple":  "#b386b2",
+    "green":  "#87b386"
+}

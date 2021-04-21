@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#4078f2",
+    "red":  "#ca1243",
+    "yellow":  "#c18401",
+    "brightWhite":  "#090a0b",
+    "black":  "#fafafa",
+    "purple":  "#a626a4",
+    "white":  "#383a42",
+    "cursorColor":  "#090a0b",
+    "brightRed":  "#ca1243",
+    "name":  "One Light",
+    "cyan":  "#0184bc",
+    "background":  "#fafafa",
+    "blue":  "#4078f2",
+    "brightCyan":  "#0184bc",
+    "brightBlack":  "#a0a1a7",
+    "brightGreen":  "#50a14f",
+    "foreground":  "#383a42",
+    "brightYellow":  "#c18401",
+    "brightBlue":  "#4078f2",
+    "brightPurple":  "#a626a4",
+    "green":  "#50a14f"
+}

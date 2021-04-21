@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#6699cc",
+    "red":  "#f2777a",
+    "yellow":  "#ffcc66",
+    "brightWhite":  "#f2f0ec",
+    "black":  "#2d2d2d",
+    "purple":  "#cc99cc",
+    "white":  "#d3d0c8",
+    "cursorColor":  "#f2f0ec",
+    "brightRed":  "#f2777a",
+    "name":  "Eighties",
+    "cyan":  "#66cccc",
+    "background":  "#2d2d2d",
+    "blue":  "#6699cc",
+    "brightCyan":  "#66cccc",
+    "brightBlack":  "#747369",
+    "brightGreen":  "#99cc99",
+    "foreground":  "#d3d0c8",
+    "brightYellow":  "#ffcc66",
+    "brightBlue":  "#6699cc",
+    "brightPurple":  "#cc99cc",
+    "green":  "#99cc99"
+}

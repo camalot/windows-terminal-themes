@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#9ccfd8",
+    "red":  "#ecebf0",
+    "yellow":  "#f6c177",
+    "brightWhite":  "#d9d7e1",
+    "black":  "#232136",
+    "purple":  "#c4a7e7",
+    "white":  "#e0def4",
+    "cursorColor":  "#d9d7e1",
+    "brightRed":  "#ecebf0",
+    "name":  "Rosé Pine Moon",
+    "cyan":  "#3e8fb0",
+    "background":  "#232136",
+    "blue":  "#9ccfd8",
+    "brightCyan":  "#3e8fb0",
+    "brightBlack":  "#59546d",
+    "brightGreen":  "#ea9a97",
+    "foreground":  "#e0def4",
+    "brightYellow":  "#f6c177",
+    "brightBlue":  "#9ccfd8",
+    "brightPurple":  "#c4a7e7",
+    "green":  "#ea9a97"
+}

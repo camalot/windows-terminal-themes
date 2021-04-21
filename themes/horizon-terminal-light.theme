@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#26BBD9",
+    "red":  "#E95678",
+    "yellow":  "#FADAD1",
+    "brightWhite":  "#201C1D",
+    "black":  "#FDF0ED",
+    "purple":  "#EE64AC",
+    "white":  "#403C3D",
+    "cursorColor":  "#201C1D",
+    "brightRed":  "#E95678",
+    "name":  "Horizon Light",
+    "cyan":  "#59E1E3",
+    "background":  "#FDF0ED",
+    "blue":  "#26BBD9",
+    "brightCyan":  "#59E1E3",
+    "brightBlack":  "#BDB3B1",
+    "brightGreen":  "#29D398",
+    "foreground":  "#403C3D",
+    "brightYellow":  "#FADAD1",
+    "brightBlue":  "#26BBD9",
+    "brightPurple":  "#EE64AC",
+    "green":  "#29D398"
+}

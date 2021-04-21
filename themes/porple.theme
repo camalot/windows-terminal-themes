@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#8485ce",
+    "red":  "#f84547",
+    "yellow":  "#efa16b",
+    "brightWhite":  "#f8f8f8",
+    "black":  "#292c36",
+    "purple":  "#b74989",
+    "white":  "#d8d8d8",
+    "cursorColor":  "#f8f8f8",
+    "brightRed":  "#f84547",
+    "name":  "Porple",
+    "cyan":  "#64878f",
+    "background":  "#292c36",
+    "blue":  "#8485ce",
+    "brightCyan":  "#64878f",
+    "brightBlack":  "#65568a",
+    "brightGreen":  "#95c76f",
+    "foreground":  "#d8d8d8",
+    "brightYellow":  "#efa16b",
+    "brightBlue":  "#8485ce",
+    "brightPurple":  "#b74989",
+    "green":  "#95c76f"
+}

@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0e5a94",
+    "red":  "#eb008a",
+    "yellow":  "#f8ca12",
+    "brightWhite":  "#ffffff",
+    "black":  "#000000",
+    "purple":  "#b31e8d",
+    "white":  "#d0d0d0",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#eb008a",
+    "name":  "Pop",
+    "cyan":  "#00aabb",
+    "background":  "#000000",
+    "blue":  "#0e5a94",
+    "brightCyan":  "#00aabb",
+    "brightBlack":  "#505050",
+    "brightGreen":  "#37b349",
+    "foreground":  "#d0d0d0",
+    "brightYellow":  "#f8ca12",
+    "brightBlue":  "#0e5a94",
+    "brightPurple":  "#b31e8d",
+    "green":  "#37b349"
+}

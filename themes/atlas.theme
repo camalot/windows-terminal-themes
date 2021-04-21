@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#5dd7b9",
+    "red":  "#ff5a67",
+    "yellow":  "#ffcc1b",
+    "brightWhite":  "#fafaf8",
+    "black":  "#002635",
+    "purple":  "#9a70a4",
+    "white":  "#a1a19a",
+    "cursorColor":  "#fafaf8",
+    "brightRed":  "#ff5a67",
+    "name":  "Atlas",
+    "cyan":  "#14747e",
+    "background":  "#002635",
+    "blue":  "#5dd7b9",
+    "brightCyan":  "#14747e",
+    "brightBlack":  "#6C8B91",
+    "brightGreen":  "#7fc06e",
+    "foreground":  "#a1a19a",
+    "brightYellow":  "#ffcc1b",
+    "brightBlue":  "#5dd7b9",
+    "brightPurple":  "#9a70a4",
+    "green":  "#7fc06e"
+}

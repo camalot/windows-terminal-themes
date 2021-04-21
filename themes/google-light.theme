@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#3971ED",
+    "red":  "#CC342B",
+    "yellow":  "#FBA922",
+    "brightWhite":  "#1d1f21",
+    "black":  "#ffffff",
+    "purple":  "#A36AC7",
+    "white":  "#373b41",
+    "cursorColor":  "#1d1f21",
+    "brightRed":  "#CC342B",
+    "name":  "Google Light",
+    "cyan":  "#3971ED",
+    "background":  "#ffffff",
+    "blue":  "#3971ED",
+    "brightCyan":  "#3971ED",
+    "brightBlack":  "#b4b7b4",
+    "brightGreen":  "#198844",
+    "foreground":  "#373b41",
+    "brightYellow":  "#FBA922",
+    "brightBlue":  "#3971ED",
+    "brightPurple":  "#A36AC7",
+    "green":  "#198844"
+}

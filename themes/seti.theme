@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#55b5db",
+    "red":  "#Cd3f45",
+    "yellow":  "#e6cd69",
+    "brightWhite":  "#ffffff",
+    "black":  "#151718",
+    "purple":  "#a074c4",
+    "white":  "#d6d6d6",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#Cd3f45",
+    "name":  "Seti UI",
+    "cyan":  "#55dbbe",
+    "background":  "#151718",
+    "blue":  "#55b5db",
+    "brightCyan":  "#55dbbe",
+    "brightBlack":  "#41535B",
+    "brightGreen":  "#9fca56",
+    "foreground":  "#d6d6d6",
+    "brightYellow":  "#e6cd69",
+    "brightBlue":  "#55b5db",
+    "brightPurple":  "#a074c4",
+    "green":  "#9fca56"
+}

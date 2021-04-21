@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#8eccdd",
+    "red":  "#d88568",
+    "yellow":  "#b99353",
+    "brightWhite":  "#f8f8f8",
+    "black":  "#1a1a1a",
+    "purple":  "#b98eb2",
+    "white":  "#cccccc",
+    "cursorColor":  "#f8f8f8",
+    "brightRed":  "#d88568",
+    "name":  "iA Dark",
+    "cyan":  "#7c9cae",
+    "background":  "#1a1a1a",
+    "blue":  "#8eccdd",
+    "brightCyan":  "#7c9cae",
+    "brightBlack":  "#767676",
+    "brightGreen":  "#83a471",
+    "foreground":  "#cccccc",
+    "brightYellow":  "#b99353",
+    "brightBlue":  "#8eccdd",
+    "brightPurple":  "#b98eb2",
+    "green":  "#83a471"
+}

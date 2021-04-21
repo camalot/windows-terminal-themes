@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#33B5E1",
+    "red":  "#EF5253",
+    "yellow":  "#E4B51C",
+    "brightWhite":  "#18262F",
+    "black":  "#F5F7FA",
+    "purple":  "#A363D5",
+    "white":  "#586875",
+    "cursorColor":  "#18262F",
+    "brightRed":  "#EF5253",
+    "name":  "Solar Flare Light",
+    "cyan":  "#52CBB0",
+    "background":  "#F5F7FA",
+    "blue":  "#33B5E1",
+    "brightCyan":  "#52CBB0",
+    "brightBlack":  "#85939E",
+    "brightGreen":  "#7CC844",
+    "foreground":  "#586875",
+    "brightYellow":  "#E4B51C",
+    "brightBlue":  "#33B5E1",
+    "brightPurple":  "#A363D5",
+    "green":  "#7CC844"
+}

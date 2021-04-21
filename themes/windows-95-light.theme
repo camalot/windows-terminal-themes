@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0000a8",
+    "red":  "#a80000",
+    "yellow":  "#a85400",
+    "brightWhite":  "#000000",
+    "black":  "#fcfcfc",
+    "purple":  "#a800a8",
+    "white":  "#545454",
+    "cursorColor":  "#000000",
+    "brightRed":  "#a80000",
+    "name":  "Windows 95 Light",
+    "cyan":  "#00a8a8",
+    "background":  "#fcfcfc",
+    "blue":  "#0000a8",
+    "brightCyan":  "#00a8a8",
+    "brightBlack":  "#a8a8a8",
+    "brightGreen":  "#00a800",
+    "foreground":  "#545454",
+    "brightYellow":  "#a85400",
+    "brightBlue":  "#0000a8",
+    "brightPurple":  "#a800a8",
+    "green":  "#00a800"
+}

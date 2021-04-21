@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0000d3",
+    "red":  "#dd0907",
+    "yellow":  "#fbf305",
+    "brightWhite":  "#ffffff",
+    "black":  "#000000",
+    "purple":  "#4700a5",
+    "white":  "#c0c0c0",
+    "cursorColor":  "#ffffff",
+    "brightRed":  "#dd0907",
+    "name":  "Macintosh",
+    "cyan":  "#02abea",
+    "background":  "#000000",
+    "blue":  "#0000d3",
+    "brightCyan":  "#02abea",
+    "brightBlack":  "#808080",
+    "brightGreen":  "#1fb714",
+    "foreground":  "#c0c0c0",
+    "brightYellow":  "#fbf305",
+    "brightBlue":  "#0000d3",
+    "brightPurple":  "#4700a5",
+    "green":  "#1fb714"
+}

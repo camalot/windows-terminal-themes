@@ -1,0 +1,23 @@
+{
+    "selectionBackground":  "#0000ff",
+    "red":  "#c41a15",
+    "yellow":  "#826b28",
+    "brightWhite":  "#5e5e5e",
+    "black":  "#ffffff",
+    "purple":  "#a90d91",
+    "white":  "#404040",
+    "cursorColor":  "#5e5e5e",
+    "brightRed":  "#c41a15",
+    "name":  "Cupertino",
+    "cyan":  "#318495",
+    "background":  "#ffffff",
+    "blue":  "#0000ff",
+    "brightCyan":  "#318495",
+    "brightBlack":  "#808080",
+    "brightGreen":  "#007400",
+    "foreground":  "#404040",
+    "brightYellow":  "#826b28",
+    "brightBlue":  "#0000ff",
+    "brightPurple":  "#a90d91",
+    "green":  "#007400"
+}
