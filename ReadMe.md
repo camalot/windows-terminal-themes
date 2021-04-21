@@ -6,7 +6,7 @@ These are based on [base16-xfce4-terminal](https://github.com/afq984/base16-xfce
 
 Find the theme you want in `./themes` directory. Copy the content to the `schemes` array in your Windows Terminal `settings.json`.
 
-```json
+```javascript
     "schemes": [
       {
         "background": "#0C0C0C",

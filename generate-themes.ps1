@@ -17,6 +17,8 @@ function Get-Base16Themes {
 			$settings = Read-ThemeFile -Content ($themeData -split "`n");
 			$palette = $settings.ColorPalette -split ";";
 
+			$fileName = $name -replace ".theme", ".json";
+
 			$theme['name'] = $settings.Name;
 			$theme['background'] = $settings.ColorBackground;
 			$theme['foreground'] = $settings.ColorForeground;
@@ -52,11 +54,11 @@ function Get-Base16Themes {
 			$theme['brightWhite'] = $palette[15];
 			"Generating Theme File for $($theme.name)" | Out-Host;
 			$all.schemes.Add($theme) | Out-Null;
-			Set-Content -Path "./themes/$name" -Force -Value ($theme | ConvertTo-Json);
+			Set-Content -Path "./themes/$fileName" -Force -Value ($theme | ConvertTo-Json);
 		}
 	}
 
-	Set-Content -Path "./themes/all.json" -Force -Value ($all | ConvertTo-Json);
+	Set-Content -Path "./themes/.all.json" -Force -Value ($all | ConvertTo-Json);
 }
 
 function Read-ThemeFile {
