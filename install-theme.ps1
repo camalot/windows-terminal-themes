@@ -1,3 +1,5 @@
+ # Requires -Version 6
+
 [CmdletBinding(DefaultParameterSetName = 'SpecifiedThemes')]
 param(
 	[ArgumentCompleter( { Get-ChildItem -Path "./themes" -Exclude ".all.json" | ForEach-Object { $_.BaseName } })]
@@ -11,7 +13,7 @@ param(
 )
 
 $settingsPath = "${Env:LOCALAPPDATA}\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json";
-$settingsData = Get-Content -Path $settingsPath -Raw | ConvertFrom-Json;
+$settingsData = (Get-Content -Path $settingsPath -Raw) -replace '(?m)(?<=^([^"]|"[^"]*")*)//.*' -replace '(?ms)/\*.*?\*/' | ConvertFrom-Json;
 
 function Install-WindowsTerminalTheme {
 	param(
@@ -33,10 +35,6 @@ function Install-WindowsTerminalTheme {
 			"Adding $($themeObject.name) to settings schemes." | Write-Host;
 			if ($themeObject -ne $null) {
 				$settingsData.schemes += $themeObject;
-				Set-Content -Path $settingsPath -Value (ConvertTo-Json $settingsData) | Out-Null;
-
-			} else {
-				"$Theme set schemes to null" | Write-Host;
 			}
 		}
 	}
@@ -70,14 +68,12 @@ function Create-Backup {
 }
 
 function Install-AllThemes {
-	"Get All" | Write-Output;
 	(Get-ChildItem -Path "./themes/" -Exclude ".all.json") | ForEach-Object {
 		Install-WindowsTerminalTheme -Theme $_.BaseName;
 	}
 }
 
 function Uninstall-AllThemes {
-	"Get All" | Write-Output;
 	(Get-ChildItem -Path "./themes/" -Exclude ".all.json") | ForEach-Object {
 		Uninstall-WindowsTerminalTheme -Theme $_.BaseName;
 	}
@@ -104,13 +100,7 @@ function Test-ThemeExists {
 }
 
 
-
-
-
 # Create a backup
-"NOT READY... CAN CAUSE CORRUPTION TO SETTINGS FILE... EXITING" | Write-Host;
-exit;
-
 Create-Backup;
 if ( $Uninstall ) {
 	if ( $All ) {
@@ -133,4 +123,4 @@ else {
 	}
 }
 # Save the changes
-Set-Content -Path $settingsPath -Value (ConvertTo-Json $settingsData) | Out-Null;
+Set-Content -Path $settingsPath -Value (ConvertTo-Json $settingsData -Depth 10) | Out-Null;
