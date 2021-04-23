@@ -1,17 +1,22 @@
  # Requires -Version 6
 
-[CmdletBinding(DefaultParameterSetName = 'SpecifiedThemes')]
+[CmdletBinding(DefaultParameterSetName = 'Install')]
 param(
 	[ArgumentCompleter( { Get-ChildItem -Path "./themes" -Exclude ".all.json" | ForEach-Object { $_.BaseName } })]
 	[Parameter(Mandatory = $false, ParameterSetName = 'AllThemes')]
-	[Parameter(Mandatory = $true, ParameterSetName = 'SpecifiedThemes')]
+	[Parameter(Mandatory = $true, ParameterSetName = 'Uninstall')]
+	[Parameter(Mandatory = $true, ParameterSetName = 'Install')]
 	[string[]] $Themes,
 	[Parameter(ParameterSetName = 'AllThemes')]
 	[switch] $All,
+	[Parameter(ParameterSetName = 'Uninstall')]
+	[Parameter(ParameterSetName = 'AllThemes')]
 	[switch] $Uninstall,
+	[Parameter(Mandatory = $false, ParameterSetName = 'Uninstall')]
+	[switch] $RemoveSystemThemes,
 	[switch] $Force
 )
-
+$defaultSystemThemes = @( "Campbell", "Campbell Powershell", "One Half Dark", "One Half Light", "Solarized Dark", "Solarized Light", "Tango Dark", "Tango Light", "Vintage" );
 $settingsPath = "${Env:LOCALAPPDATA}\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json";
 $settingsData = (Get-Content -Path $settingsPath -Raw) -replace '(?m)(?<=^([^"]|"[^"]*")*)//.*' -replace '(?ms)/\*.*?\*/' | ConvertFrom-Json;
 
@@ -33,7 +38,7 @@ function Install-WindowsTerminalTheme {
 		}
 		else {
 			"Adding $($themeObject.name) to settings schemes." | Write-Host;
-			if ($themeObject -ne $null) {
+			if ($null -ne $themeObject) {
 				$settingsData.schemes += $themeObject;
 			}
 		}
@@ -49,9 +54,13 @@ function Uninstall-WindowsTerminalTheme {
 	}
 	process {
 		if ( Test-ThemeExists -Theme $themeObject.name -Settings $settingsPath) {
-			"Removing '$($themeObject.name)' from schemes." | Write-Host;
-			$newSchemes = $settingsData.schemes | Where-Object { $_.name -ine $themeObject.name };
-			$settingsData.schemes = $newSchemes;
+			if ( $RemoveSystemThemes -or -not $defaultSystemThemes.Contains($themeObject.name) ) {
+				"Removing '$($themeObject.name)' from schemes." | Write-Host;
+				$newSchemes = $settingsData.schemes | Where-Object { $_.name -ine $themeObject.name };
+				$settingsData.schemes = $newSchemes;
+			} else {
+				"Theme '$($themeObject.name)' is a default system theme. To remove use -RemoveSystemThemes flag." | Write-Host;
+			}
 		}
 		else {
 			"Theme Not Found. Skipping." | Write-Host;
