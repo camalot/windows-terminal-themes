@@ -4,6 +4,12 @@ These are based on [base16-xfce4-terminal](https://github.com/afq984/base16-xfce
 
 ## Installation 
 
+- Clone this repo. 
+- Identify the themes you want to install
+- Run `PS> ./install-theme -Themes "theme1", "theme2" ...`
+ - or install all themes: `PS> ./install-theme -All`
+
+## Manual Installation
 Find the theme you want in `./themes` directory. Copy the content to the `schemes` array in your Windows Terminal `settings.json`.
 
 ```javascript
@@ -38,3 +44,8 @@ Find the theme you want in `./themes` directory. Copy the content to the `scheme
       // insert new theme(s) here
     ]
 ```
+
+## Uninstall Themes
+
+- Run `PS> ./install-theme -Themes "theme1", "theme2" -Uninstall`
+ - or uninstall all themes: `PS> ./install-theme -All -Uninstall`
