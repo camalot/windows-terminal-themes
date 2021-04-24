@@ -1,6 +1,8 @@
 # Windows Terminal Themes
 
 These are based on [base16-xfce4-terminal](https://github.com/afq984/base16-xfce4-terminal) themes
+Also includes themes from [iTerm2-Color-Schemes/windowsterminal](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/windowsterminal)
+
 
 ## Installation 
 

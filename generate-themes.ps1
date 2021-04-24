@@ -1,12 +1,13 @@
 #!/usr/bin/env pwsh
 
+$all = @{
+	schemes = [System.Collections.ArrayList]@();
+}
 function Get-Base16Themes {
 	# Invoke-RestMethod -Uri "https://api.github.com/repos/afq984/base16-xfce4-terminal/contents/colorschemes" -Method Get |
 	$items = (Invoke-WebRequest -Uri "https://api.github.com/repos/afq984/base16-xfce4-terminal/contents/colorschemes" -Method Get).Content  | ConvertFrom-Json;
 	# $items = Get-Content -Path "./temp.json" | ConvertFrom-Json;
-	$all = @{
-		schemes = [System.Collections.ArrayList]@();
-	};
+
 
 	$items | ForEach-Object {
 		$item = $_;
@@ -17,7 +18,7 @@ function Get-Base16Themes {
 			$settings = Read-ThemeFile -Content ($themeData -split "`n");
 			$palette = $settings.ColorPalette -split ";";
 
-			$fileName = $name -replace ".theme", ".json";
+			$fileName = Clean-FileName -InputFileName ($name -replace ".theme", ".json");
 
 			$theme['name'] = $settings.Name;
 			$theme['background'] = $settings.ColorBackground;
@@ -54,11 +55,32 @@ function Get-Base16Themes {
 			$theme['brightWhite'] = $palette[15];
 			"Generating Theme File for $($theme.name)" | Out-Host;
 			$all.schemes.Add($theme) | Out-Null;
-			Set-Content -Path "./themes/$fileName" -Force -Value ($theme | ConvertTo-Json);
+			Set-Content -Path "./themes/$($fileName.ToLower())" -Force -Value ($theme | ConvertTo-Json -Depth 10);
 		}
 	}
+}
 
-	Set-Content -Path "./themes/.all.json" -Force -Value ($all | ConvertTo-Json);
+function Get-iTerm2Themes {
+	#https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/windowsterminal
+	$items = (Invoke-WebRequest -Uri "https://api.github.com/repos/mbadolato/iTerm2-Color-Schemes/contents/windowsterminal" -Method Get).Content  | ConvertFrom-Json;
+	$items | ForEach-Object {
+		$item = $_;
+		$fileName = Clean-FileName -InputFileName $item.name
+		"Checking for $($item.name)" | Write-Host;
+		$existing = (Get-ChildItem -Path "./themes" -Include $fileName);
+		if ( $null -eq $existing ) {
+			$theme = (Invoke-WebRequest -Uri "$($item.download_url)" -Method Get).Content;
+			$all.schemes.Add(($theme | ConvertFrom-Json)) | Out-Null;
+			Set-Content -Path "./themes/$fileName" -Force -Value $theme;
+		}
+	}
+}
+
+function Clean-FileName {
+	param (
+		[string] $InputFileName
+	)
+	return ($InputFileName -replace "\s", "-").ToLower();
 }
 
 function Read-ThemeFile {
@@ -86,5 +108,7 @@ function Read-ThemeFile {
 		return $theme;
 	}
 }
-
+Get-iTerm2Themes;
 Get-Base16Themes;
+
+Set-Content -Path "./themes/.all.json" -Force -Value ($all | ConvertTo-Json -Depth 10);
